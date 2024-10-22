@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">I am currently a student at FILS - CTI(E), Politehnica University of Bucharest</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addrian-77&label=Profile%20views&color=0e75b6&style=flat" alt="addrian-77" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addrian-77" alt="addrian-77" /></a> </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
