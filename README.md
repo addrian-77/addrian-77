@@ -3,8 +3,8 @@
 
 <br>
 
-- 🌱 I’m currently learning
 - ⚡ Experimenting with **CLEO scripting**
+- 🌱 I’m currently learning
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
