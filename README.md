@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">I am currently a student at FILS - CTI(E), Politehnica University of Bucharest</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addrian-77&label=Profile%20views&color=0e75b6&style=flat" alt="addrian-77" /> </p>
+
 <br>
 
 - ⚡ Experimenting with **CLEO scripting**
@@ -12,4 +12,5 @@
 <br>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=addrian-77&label=Profile%20views&color=0e75b6&style=flat" alt="addrian-77" /> </p>
 
