@@ -3,7 +3,7 @@
 
 <br>
 
-- ⚡ Experimenting with **CLEO scripting**
+
 - 🌱 I’m currently learning
 
 <br>
