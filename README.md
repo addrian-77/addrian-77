@@ -8,4 +8,4 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addrian-77&label=Profile%20views&color=0e75b6&style=flat" alt="addrian-77" /> </p>
+![](https://komarev.com/ghpvc/?username=addrian-77&color=558c1b)
