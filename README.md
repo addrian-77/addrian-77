@@ -8,4 +8,4 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=addrian-77&color=558c1b)
+![](https://komarev.com/ghpvc/?username=addrian-77&color=558c1b&style=flat&abbreviated=true)
